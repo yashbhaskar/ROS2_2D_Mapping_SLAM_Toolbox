@@ -1,2 +1,2 @@
 # ROS2_Mapping_SLAM_Toolbox
-This repository contains a complete ROS2 simulation workspace featuring a custom robot model with integrated sensors (RGB-D camera, 2D/3D LiDAR, IMU) and slam_toolbox for real-time mapping.
+This ROS 2 package contains a complete robot URDF model integrated with essential sensors and plugins for 2D SLAM mapping using slam_toolbox. It includes RGB-D camera, LiDAR, IMU, and odometry plugins with Gazebo and RViz support, enabling real-time 2D mapping, map generation, saving and sensor visualization in simulation.
