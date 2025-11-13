@@ -28,7 +28,7 @@ By using this package, you will learn how to:
    - Observe the generated occupancy grid map updating in RViz.  
 
 3. **Save and Export the Map**  
-   - After mapping, save the environment as .pgm and .yaml map files for future navigation.  
+   - After mapping, save the environment as .pgm, .yaml, .data and .posegraph map files for future navigation.  
 
 ---
 
