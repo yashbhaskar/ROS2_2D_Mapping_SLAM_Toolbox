@@ -8,7 +8,7 @@ This ROS 2 package contains a complete robot URDF model integrated with essentia
 - **Complete Robot Description:** Includes `.urdf` and `.xacro` files with linked `.stl` CAD meshes.  
 - **Sensor Integration:** Equipped with 2D LiDAR, IMU, and odometry plugins for accurate mapping.  
 - **SLAM Toolbox Integration:** Enables real-time 2D mapping.  
-- **Map Saving & Loading:** Easily save generated maps (`.yaml` + `.pgm`) for later navigation use.  
+- **Map Saving & Loading:** Easily save generated maps (`.yaml` + `.pgm` + `.data` + `.posegraph`) for later navigation use.  
 - **Multi-Environment Simulation:** Test mapping in various Gazebo worlds like small rooms or warehouses.  
 - **ROS 2 Compatibility:** Works seamlessly with `slam_toolbox`, `nav2`, and `gazebo_ros_pkgs`.  
 
