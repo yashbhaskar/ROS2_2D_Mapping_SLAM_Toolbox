@@ -95,6 +95,8 @@ ros2 run nav2_map_server map_saver_cli -f my_genrated_map
 You can also save the map directly from **RViz**:  
 - Go to **Panels → Add New Panel → Map Saver**.  
 - Use the **Save** button to export your current map (`.pgm` and `.yaml` files).
+- For localization, save the **SLAM data** and **pose graph** files (`.data` and `.posegraph`) to reuse mapping sessions later.  
+- Use the **Serialize** button to save and the **Deserialize** button to load these files in future sessions.
 
 ---
 
